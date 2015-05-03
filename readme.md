@@ -1,4 +1,4 @@
-# Natural Language Processing Project on Yelp data 
+# NLP Project on Yelp data 
 
 * Rating guessing
 * Extract features from comment text
