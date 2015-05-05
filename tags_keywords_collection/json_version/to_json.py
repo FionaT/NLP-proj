@@ -28,6 +28,9 @@ for i in range(0, len(tag)):
 #print my_dict
 j = json.dumps(my_dict)
 
+print my_dict["cash only"]
+
+'''
 with open('tags_keywords.txt', 'w') as outfile:
     json.dump(j, outfile)
 
@@ -35,3 +38,5 @@ thefile = open('tags.txt', 'w')
 
 for item in tag:
   thefile.write("%s\n" % item)
+
+ '''
