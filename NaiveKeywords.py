@@ -7,12 +7,12 @@ from nltk.stem.wordnet import WordNetLemmatizer
 
 negationWords = ['not', 'no', 'never', 'nt']
 
-fin = open('/Users/dengjingwen/Courses/NLP/manual_read/tags_keywords.txt', 'r')
+fin = open('tags_keywords.txt', 'r')
 lines = fin.readlines()
 tags = []
 for line in lines:
-	line = line.split(',')
-	tags.append(line)
+    line = line.split(',')
+    tags.append(line)
 
 tokenizer = PunktSentenceTokenizer()
 stm = WordNetLemmatizer()
@@ -28,10 +28,7 @@ def getFeatures(s):
     for i in range(l1):
         w = tks[i]
         if (w in negationWords):
-            if p == '':
-                p = 'not '
-            else:
-                p = ''
+            p = 'not '
             continue
         for tag in tags:
             for kw in tag[1:]:
@@ -49,16 +46,30 @@ def getFeatures(s):
 
 def extractFeatures(line):
     multiFeatures = []
-    features = []
+    features = {}
     line = line.lower()
     line = line.replace('\\n', '')
     line = line.replace('\\', '')
     ss = tokenizer.tokenize(line)
     for s in ss:
-        multiFeatures = multiFeatures + getFeatures(s)
-    for f in multiFeatures:
-        if not f in features:
-            features.append(f)
+        multiFeatures = getFeatures(s)
+        for f in multiFeatures:
+            if f.startswith('not'):
+                f = f.lstrip('not ')
+                if f not in features:
+                    features[f] = [0, 1]
+                else:
+                    li = features[f]
+                    li[1] += 1
+                    features[f] = li
+            else:
+                if f not in features:
+                    features[f] = [1, 0]
+                else:
+                    li = features[f]
+                    li[0] += 1
+                    features[f] = li
+    features = features.items()
+    features.sort(key=lambda x: x[1][0]-x[1][1])
+    features.reverse()
     return features
-
-print(getFeatures('they do not accept credit card'))
