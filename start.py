@@ -14,7 +14,8 @@ def loadDocInfo():
     return temp
 
 def loadDetail():
-    return {"secret" : "not implemented"}
+    temp = json.loads(open("index/invertedreview", "r").read())
+    return temp
 
 def front():
     application = tornado.web.Application([
