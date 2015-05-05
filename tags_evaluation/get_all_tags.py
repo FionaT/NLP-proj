@@ -15,8 +15,13 @@ for line in the_file:
 	json_line = json.loads(line)
 
 	for key, value in json_line["attributes"].iteritems():
-		attr_map[key] = 1
-		#print key
+		if(key == "Good For"):
+			#print json_line["attributes"]["Good For"]
+			for key, value in json_line["attributes"]["Good For"].iteritems():
+				attr_map["Good For " + key] = 1
+		else:	
+			attr_map[key] = 1
+			#print key
 
 
 for key, value in attr_map.iteritems():

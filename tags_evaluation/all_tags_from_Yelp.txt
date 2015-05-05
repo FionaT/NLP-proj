@@ -1,7 +1,9 @@
+Good For brunch 
 Drive-Thru 
 Alcohol 
 Open 24 Hours 
 Noise Level 
+Good For lunch 
 Hair Types Specialized In 
 Music 
 Has TV 
@@ -10,8 +12,10 @@ Ambience
 Good for Kids 
 Price Range 
 BYOB 
+Good For dinner 
 Accepts Insurance 
 Good For Dancing 
+Good For breakfast 
 Delivery 
 Dogs Allowed 
 Coat Check 
@@ -22,6 +26,8 @@ BYOB/Corkage
 Take-out 
 Ages Allowed 
 Corkage 
+Good For latenight 
+Good For dessert 
 Happy Hour 
 Wheelchair Accessible 
 Outdoor Seating 
@@ -31,7 +37,6 @@ Wi-Fi
 Dietary Restrictions 
 Caters 
 Order at Counter 
-Good For 
 Parking 
 By Appointment Only 
 Good For Kids 
