@@ -7,7 +7,7 @@ Just read the first column of tags_keywords.txt
     
 ####Get yelp tags set
 Read all attributes mentioned in yelp's businesses, find the union set of these attributes.
-* input_file: yelp_academic_dataset_checkin.json
+* input_file: yelp_academic_dataset_business.json
 * code: get_all_yelp_tags.py
 * out_file: Yelp_tags_set.txt
     
