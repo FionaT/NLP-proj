@@ -8,7 +8,7 @@ os.environ['STANFORD_PARSER'] = '/usr/local/Cellar/stanford-parser/3.4/libexec/s
 os.environ['STANFORD_MODELS'] = '/usr/local/Cellar/stanford-parser/3.4/libexec/stanford-parser-3.4-models.jar'
 parser=StanfordParser(model_path='/usr/local/Cellar/stanford-parser/3.4/libexec/edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz')
 list(parser.raw_parse("the quick brown fox jumps over the lazy dog"))
-sentences = parser.raw_parse("the quick brown fox jumps over the lazy dog")
+sentences = parser.raw_parse("I never like them because they do not accept credit card")
 print type(sentences)
 
 # GUI
