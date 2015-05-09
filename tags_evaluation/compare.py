@@ -56,10 +56,7 @@ for line in our_file:
 	set2 = set(set2).intersection(overlap_tags)
 
 	overlap = set(set1).intersection(set2)
-
-	if(len(overlap) == 0):
-		continue
-
+	
 	count += 1
 	
 	response = len(set2)
@@ -70,24 +67,31 @@ for line in our_file:
 	total_tags1 += response
 	total_tags2 += key
 
-	#print business_attr[index][0], set1
-	#print line[0], set2
+	print "yelp: ",
+	print business_attr[index][0], set1
+
+	print "our: ",
+	print line[0], set2
 	
 	if(response == 0):
 		precision += 0
 	else:
 		precision += correct / float(response)
-		#print correct / float(response)
+		print "precision: " + str(correct / float(response))
 	
 	if(key == 0):
 		recall += 0
 	else:
 		recall += correct / float(key)
-		#print correct / float(key)
+		print  "recall: " + str(correct / float(key))
 
+	#print an empty line
+	print ""
 	#print precision, recall
 
-print precision/count , recall/count
-print total_corrects / float(total_tags1), total_corrects / float(total_tags2)
+print "total_precision: " + str(precision/count)
+print "total_recall: " + str(recall/count)
+print "total_corrects / total_response_tags: " + str(total_corrects / float(total_tags1))
+print "total_corrects / total_key_tags: " + str(total_corrects / float(total_tags2))
 
-	
+
