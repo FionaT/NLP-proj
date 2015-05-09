@@ -1,0 +1,7 @@
+preprocess.py: processing the text takes a long time, so it's better to get it to desired format from the beginning. This program reads in raw data, lowers all cases, removes punctuations and stopwords, then writes to a new file.
+
+model.py: use the processed text to create the model, aka, probabilities of each word being in a positive review or a negative review. I used a weighted scheme so that a 5 star review is more positive than a 3 star review. A final probability for each word is given by dividing its score with time of occurrences of that word. So the number for word w represents P(w|positive) and P(w|negative) = 1 - the number.
+
+compute.py: use the model to compute our prediction for each review. For each review, compute the product of P(positive) and P(w|positive) for all words w, as well as negative. Then pick the bigger one as the tag of this review.
+
+I decide to use the distribution in the original set to apply on the results, 35% for 5 star,  30% for 4 star, 15% for 3 star, 10% for 2 star, 10% for 1 star.

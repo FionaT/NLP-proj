@@ -1,0 +1,51 @@
+负号代表相反
+
+0 nothing
+
+1 accept credit card
+-1 cash only
+
+2 parking
+-2 no parking
+
+3 have wifi
+-3 no wifi
+
+4 good for group
+-4 not good for group
+
+5 good for date
+-5 not good
+
+6 good for family
+-6 not good
+
+7 good for business
+-7 not good
+
+8 do delivery
+-8 cannot
+
+9 take reservation
+-9 cannot
+
+10 fast
+-10 slow
+
+11 good service
+-11 bad service
+
+12 large portion
+-12 small
+
+13 price reasonable, cheap
+-13 expensive
+
+14 quiet
+-14 noise
+
+15 yummy
+-15 taste bad
+
+16 good for kids
+-16 not good

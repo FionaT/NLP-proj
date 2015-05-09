@@ -1,0 +1,1419 @@
+yelp:  OlpyplEJ_c_hFxyand_Wxw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  OlpyplEJ_c_hFxyand_Wxw set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  s5yzZITWU_RcJzWOgjFecw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  s5yzZITWU_RcJzWOgjFecw set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.625
+
+yelp:  gq7u9uyOkpLCeh_lxR-WFw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  gq7u9uyOkpLCeh_lxR-WFw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  3m7khDnqH9QOg8gu3Ymumw set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  3m7khDnqH9QOg8gu3Ymumw set(['Waiter Service', 'Parking', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.666666666667
+
+yelp:  5TBOg9Rf47SECB8gTNGqeQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  5TBOg9Rf47SECB8gTNGqeQ set(['Delivery', 'Waiter Service', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  W0eocyGliMbg8NScqERaiA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  W0eocyGliMbg8NScqERaiA set(['Waiter Service', 'Accepts Credit Cards', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  w-RzHsvV05yT2K-JC8DJUA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  w-RzHsvV05yT2K-JC8DJUA set(['Delivery', 'Waiter Service', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  TInL9Ll_fd597SeEml0yLw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  TInL9Ll_fd597SeEml0yLw set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  ZlvVCqFKTMK4rBkTQzVBpA set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  ZlvVCqFKTMK4rBkTQzVBpA set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.5
+
+yelp:  Az_IY3TgnOcnh1dXd7GZLg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Az_IY3TgnOcnh1dXd7GZLg set(['Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  zG_wv69bsllw_PWhOmoAKQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  zG_wv69bsllw_PWhOmoAKQ set(['Takes Reservations', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  FbWwugp1EWRYBv76Wd3BEg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  FbWwugp1EWRYBv76Wd3BEg set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  WuCcv_Dyd_1B_1-4jwK7sQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  WuCcv_Dyd_1B_1-4jwK7sQ set(['Takes Reservations', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.75
+
+yelp:  rGvkljWlP7ysvLEUucoyqA set(['Waiter Service', 'Good For Groups', 'Wi-Fi', 'Accepts Credit Cards', 'Parking'])
+our:  rGvkljWlP7ysvLEUucoyqA set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 0.5
+recall: 0.6
+
+yelp:  ugc287HhOgVukLGZTaX-YQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  ugc287HhOgVukLGZTaX-YQ set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  Rg4dHuszzF0Mb4yqtoHSiA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Rg4dHuszzF0Mb4yqtoHSiA set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  TuuENwzxOFdDLY_oKCbFZw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  TuuENwzxOFdDLY_oKCbFZw set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  IoWXpj8WFNNu47rKpPb-Og set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  IoWXpj8WFNNu47rKpPb-Og set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.5
+
+yelp:  MhkZLdUFaHt5SDcQcqOWQg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  MhkZLdUFaHt5SDcQcqOWQg set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  0EXVIF07vw-QTTy9V7-ebg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  0EXVIF07vw-QTTy9V7-ebg set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  bwu0cUZfksuu-uzTPrrl2A set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  bwu0cUZfksuu-uzTPrrl2A set(['Accepts Credit Cards', 'Takes Reservations', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.875
+
+yelp:  zmvIqh26-lzpZROHuhA-6w set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  zmvIqh26-lzpZROHuhA-6w set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  KKucN3P6aH84MCfPr56a8g set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  KKucN3P6aH84MCfPr56a8g set(['Accepts Credit Cards', 'Takes Reservations', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.875
+
+yelp:  M75Mj9JwbL_2dDsyXQiUSw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  M75Mj9JwbL_2dDsyXQiUSw set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  9lF6-JrS2PvTkw9KVxn3Yg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  9lF6-JrS2PvTkw9KVxn3Yg set(['Waiter Service', 'Wi-Fi', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  W4cHF12due10J7xevvjvPw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  W4cHF12due10J7xevvjvPw set(['Delivery', 'Takes Reservations', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  NHy-HT-FI305jqgyeIWPCQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  NHy-HT-FI305jqgyeIWPCQ set(['Waiter Service', 'Wi-Fi', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  wFN75sAjpPpYnf0De8QssA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  wFN75sAjpPpYnf0De8QssA set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  rB6IWv6mW2IVjvgfvNGdHg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  rB6IWv6mW2IVjvgfvNGdHg set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  wr3bTAXlo6aB5LIbIx6ueQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  wr3bTAXlo6aB5LIbIx6ueQ set(['Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  _QP-vfoxfFvKMdArsoQ3Bw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  _QP-vfoxfFvKMdArsoQ3Bw set(['Delivery', 'Waiter Service', 'Wi-Fi'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  b9WZJp5L1RZr4F1nxclOoQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  b9WZJp5L1RZr4F1nxclOoQ set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Accepts Credit Cards', 'Good For Groups'])
+precision: 1.0
+recall: 0.625
+
+yelp:  BH4ky1-owYRtIKRZ0bw9Rw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  BH4ky1-owYRtIKRZ0bw9Rw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  4X_XAOeMw7AFkYhg3NINJA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  4X_XAOeMw7AFkYhg3NINJA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.875
+recall: 1.0
+
+yelp:  J_Z_XLjhhtTNOupOwemDqg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  J_Z_XLjhhtTNOupOwemDqg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  jOgSvW9VNw0Cw9p8w5A2JQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  jOgSvW9VNw0Cw9p8w5A2JQ set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  QzC9ePNTrJ5QQwehsmMAWA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  QzC9ePNTrJ5QQwehsmMAWA set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.625
+
+yelp:  rUQfZOengMpXFkLvJrNJ3g set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  rUQfZOengMpXFkLvJrNJ3g set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  PF_L0dY7Ad76BleQ6Hc7Qg set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+our:  PF_L0dY7Ad76BleQ6Hc7Qg set(['Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  hlME5-P2CudNDCUSIX2cxQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  hlME5-P2CudNDCUSIX2cxQ set(['Delivery', 'Waiter Service', 'Parking'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  ZF58mOM_ACiIhmwr8s_G1w set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  ZF58mOM_ACiIhmwr8s_G1w set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  aTMDGTQpHVzUY2VxBy4i8A set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  aTMDGTQpHVzUY2VxBy4i8A set(['Waiter Service', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.5
+
+yelp:  2unQHR9uaRxk3dsW6f3MGA set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  2unQHR9uaRxk3dsW6f3MGA set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.5
+
+yelp:  1vQLTKwmcmZXtNzfKEvMmA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  1vQLTKwmcmZXtNzfKEvMmA set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  4XTcSltd2GydhvOzAV4SaQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  4XTcSltd2GydhvOzAV4SaQ set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  fphcaoXU9ywS5t3zEqYyvA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  fphcaoXU9ywS5t3zEqYyvA set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  xWnS17JRqB2Cjdgfncnnng set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  xWnS17JRqB2Cjdgfncnnng set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  x-S7Nooy3jiKChpR00mVWw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  x-S7Nooy3jiKChpR00mVWw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  EpQDugxrbGJlvpSx8piy7A set(['Accepts Credit Cards', 'Good For Groups', 'Parking'])
+our:  EpQDugxrbGJlvpSx8piy7A set(['Waiter Service', 'Accepts Credit Cards', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 1.0
+
+yelp:  2bFrNEhlNjFA7aqJyYBXmw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  2bFrNEhlNjFA7aqJyYBXmw set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  vFOgPc3Ib5wzejPhGqxM4Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  vFOgPc3Ib5wzejPhGqxM4Q set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  Y3a3RkR97J_ReiKgiMXeJg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Y3a3RkR97J_ReiKgiMXeJg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  -r5aq7vjN6lMFDZ4XYErkQ set(['Waiter Service', 'Good For Groups', 'Wi-Fi', 'Accepts Credit Cards', 'Parking'])
+our:  -r5aq7vjN6lMFDZ4XYErkQ set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.6
+
+yelp:  DnZkFbDjnts5ABUUA9QuVg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  DnZkFbDjnts5ABUUA9QuVg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  xWUQak48XdNZ4ZlkaI4zng set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  xWUQak48XdNZ4ZlkaI4zng set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  guD6--j7BIeqcFW_IUFbgw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  guD6--j7BIeqcFW_IUFbgw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  pNNiVpYRjGOldveDMVrXMQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  pNNiVpYRjGOldveDMVrXMQ set(['Delivery', 'Waiter Service', 'Parking', 'Takes Reservations'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  eHD1iu4B5yd_wj_uiSapzQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  eHD1iu4B5yd_wj_uiSapzQ set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  jRfdz5voj40P6WS9L54caw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  jRfdz5voj40P6WS9L54caw set(['Takes Reservations', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.75
+
+yelp:  oly8HWl0MtuioFWKPINIFg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  oly8HWl0MtuioFWKPINIFg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  g3WAdIH2ULX6hFI6hOfBWw set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+our:  g3WAdIH2ULX6hFI6hOfBWw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  8Gmjirpg6V_a2u0K4In6Iw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  8Gmjirpg6V_a2u0K4In6Iw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  zWmMse__At85rO_ivLcpXA set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+our:  zWmMse__At85rO_ivLcpXA set(['Waiter Service', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  _ji6oh2RwfOOt0jMznT5wg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  _ji6oh2RwfOOt0jMznT5wg set(['Waiter Service', 'Wi-Fi', 'Parking'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  kdwGeJlYwmqt9X49IG49mQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  kdwGeJlYwmqt9X49IG49mQ set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  RQ_QaWi1Cc4X6odfGuUGcA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  RQ_QaWi1Cc4X6odfGuUGcA set(['Delivery', 'Waiter Service', 'Good For Kids', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  vFJmFFfPVhHkC3bWOeZnNA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  vFJmFFfPVhHkC3bWOeZnNA set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  GmzpzmxinfLMw5OXQKFEBQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  GmzpzmxinfLMw5OXQKFEBQ set(['Accepts Credit Cards', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  bdTzNQ18wfPbyiXHJKL1dg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  bdTzNQ18wfPbyiXHJKL1dg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  lut0g04VsYRyblR1Ad-8HA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  lut0g04VsYRyblR1Ad-8HA set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  7y2Fgu5sdYQrzuJxatXMNg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  7y2Fgu5sdYQrzuJxatXMNg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  4nWKKGZGFc4nWUbJTunMAw set(['Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+our:  4nWKKGZGFc4nWUbJTunMAw set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.666666666667
+
+yelp:  -g0zVR9LswlUud9m1eFuUQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  -g0zVR9LswlUud9m1eFuUQ set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  MEraJIKYztC7IOzYwMe86g set(['Delivery', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups', 'Parking'])
+our:  MEraJIKYztC7IOzYwMe86g set(['Delivery', 'Waiter Service', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.8
+
+yelp:  OU6yfyuCzwJZvZFRnTOZzg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  OU6yfyuCzwJZvZFRnTOZzg set(['Takes Reservations', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  rXLHlQP_ogFsa1JhHLhkEg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  rXLHlQP_ogFsa1JhHLhkEg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.5
+
+yelp:  yMAJeQulLvOov-5gg2nM9A set(['Wi-Fi', 'Accepts Credit Cards', 'Parking'])
+our:  yMAJeQulLvOov-5gg2nM9A set(['Waiter Service', 'Wi-Fi', 'Accepts Credit Cards', 'Parking'])
+precision: 0.75
+recall: 1.0
+
+yelp:  gZ3GVh4aER2q6_UdA6fTKw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  gZ3GVh4aER2q6_UdA6fTKw set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  eR7cwYFZDkNqBSSTohNwLw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  eR7cwYFZDkNqBSSTohNwLw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  _ED-tcE-bsR7oFYWZwvUAQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  _ED-tcE-bsR7oFYWZwvUAQ set(['Waiter Service', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  sKNqTICN-nyn5hRNmPO8tQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  sKNqTICN-nyn5hRNmPO8tQ set(['Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  NOuSa7Yy4yHYKDD0rNod9Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  NOuSa7Yy4yHYKDD0rNod9Q set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  d_8bMNQd0mesbEUeq1U2kQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  d_8bMNQd0mesbEUeq1U2kQ set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.5
+
+yelp:  _GWuXjPNBnO56OaT_daPZQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  _GWuXjPNBnO56OaT_daPZQ set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.625
+
+yelp:  vJcjhJ9rQP4-T3K_hdAjfg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  vJcjhJ9rQP4-T3K_hdAjfg set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  FOfhEC6rN23RQaUlsR2byw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  FOfhEC6rN23RQaUlsR2byw set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.625
+
+yelp:  H-e74SghEFfIz_TdUS_2KQ set(['Takes Reservations', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+our:  H-e74SghEFfIz_TdUS_2KQ set(['Waiter Service', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.5
+
+yelp:  dfxGnjDhsLCA7B9FQgvTdw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  dfxGnjDhsLCA7B9FQgvTdw set(['Waiter Service', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  l9JvQhr9-ktjuFQOnchFmA set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  l9JvQhr9-ktjuFQOnchFmA set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.5
+
+yelp:  11_Py0PMSwvnok8K9I3AgA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  11_Py0PMSwvnok8K9I3AgA set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.5
+
+yelp:  Yg72nmS4epd8gyaXKn2o4A set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Yg72nmS4epd8gyaXKn2o4A set(['Waiter Service', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  _wrA7CMbMqcWEDCNghi5cg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  _wrA7CMbMqcWEDCNghi5cg set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  _wZTYYL7cutanzAnJUTGMA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  _wZTYYL7cutanzAnJUTGMA set(['Waiter Service', 'Parking', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  pi6eN2zM9VAR4RjAoFSqzg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  pi6eN2zM9VAR4RjAoFSqzg set(['Delivery', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  hh2lP4_2N-tk_OxmaTf_qA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  hh2lP4_2N-tk_OxmaTf_qA set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  Y_Y91oeUrIwYa18F8ey5NQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Y_Y91oeUrIwYa18F8ey5NQ set(['Delivery', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  nbpY3tbPrAksoqOrYwlx7Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  nbpY3tbPrAksoqOrYwlx7Q set(['Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.375
+
+yelp:  aX3dNl6iDh4FaSw7-ipvQw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  aX3dNl6iDh4FaSw7-ipvQw set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  g-sizDI5AvXJ0W94VVyuqA set(['Accepts Credit Cards', 'Takes Reservations', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  g-sizDI5AvXJ0W94VVyuqA set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.666666666667
+
+yelp:  Q19gSL2gPn-v0pOsnANuRA set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  Q19gSL2gPn-v0pOsnANuRA set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.5
+
+yelp:  6pd0Z40VifMh6ETJrOw_0g set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  6pd0Z40VifMh6ETJrOw_0g set(['Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.375
+
+yelp:  voPFKvVFm7b01xUyJixFYA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  voPFKvVFm7b01xUyJixFYA set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.5
+
+yelp:  a1t31qMLd5fQocEjbSJ61A set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  a1t31qMLd5fQocEjbSJ61A set(['Accepts Credit Cards', 'Takes Reservations', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.75
+
+yelp:  WhBxWYRj6rycigYqdXY9cA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  WhBxWYRj6rycigYqdXY9cA set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.625
+
+yelp:  C6lM880c3gEdk_9ZjtKYWA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  C6lM880c3gEdk_9ZjtKYWA set(['Delivery', 'Waiter Service', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  sF3k_ZSndah1OwduVlb8_w set(['Delivery', 'Parking', 'Wi-Fi', 'Accepts Credit Cards', 'Takes Reservations'])
+our:  sF3k_ZSndah1OwduVlb8_w set(['Accepts Credit Cards', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.5
+recall: 0.6
+
+yelp:  TKTiztj5UOz2Na3xw9Hkvg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  TKTiztj5UOz2Na3xw9Hkvg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  noX7tQCO-zYkJxVqoZ4u8g set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  noX7tQCO-zYkJxVqoZ4u8g set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  3xEB9FyFXolq1b_Qn_BFtg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  3xEB9FyFXolq1b_Qn_BFtg set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.625
+
+yelp:  45puCRQ6Vh_IIAy7kkfFDQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  45puCRQ6Vh_IIAy7kkfFDQ set(['Accepts Credit Cards', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.75
+
+yelp:  mzbQCUmd135tsNW6hY3G6A set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  mzbQCUmd135tsNW6hY3G6A set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.75
+
+yelp:  simnCuMX4OVwIhWaIqL4zA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  simnCuMX4OVwIhWaIqL4zA set(['Delivery', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  vcZWlI0eHiGwlUfP-5Ov8Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  vcZWlI0eHiGwlUfP-5Ov8Q set(['Takes Reservations', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  _6MDHQQ-PeUJ9CP-MoKApA set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  _6MDHQQ-PeUJ9CP-MoKApA set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.5
+
+yelp:  exyrJvzW0pXIfeWwJwYBvA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  exyrJvzW0pXIfeWwJwYBvA set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  xI0UZH734lJtm39DbLf-Bw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  xI0UZH734lJtm39DbLf-Bw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.5
+
+yelp:  PX3e3qtBx_5VC3vqq47jpQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  PX3e3qtBx_5VC3vqq47jpQ set(['Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.375
+
+yelp:  e5gB2kDFaodtxMTa53C29g set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  e5gB2kDFaodtxMTa53C29g set(['Delivery', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.625
+
+yelp:  ClRgYu3vtPcXTjDQd4wa_w set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  ClRgYu3vtPcXTjDQd4wa_w set(['Delivery', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  dF-u2E0ZFAZMlAlsTjHz2A set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  dF-u2E0ZFAZMlAlsTjHz2A set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  sgZwUkKSpFQxE2v1hE-hcQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  sgZwUkKSpFQxE2v1hE-hcQ set(['Takes Reservations', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  aGbjLWzcrnEx2ZmMCFm3EA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  aGbjLWzcrnEx2ZmMCFm3EA set(['Accepts Credit Cards', 'Delivery', 'Takes Reservations', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.857142857143
+recall: 0.857142857143
+
+yelp:  sAbRiVqmxNdjTja_vmnsnA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  sAbRiVqmxNdjTja_vmnsnA set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.625
+
+yelp:  3bdePZRBF5zv1LMjmqp7Cg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  3bdePZRBF5zv1LMjmqp7Cg set(['Waiter Service', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  PdZj1gylTC5AaTO21eOYcA set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  PdZj1gylTC5AaTO21eOYcA set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.6
+recall: 0.5
+
+yelp:  8aPTQeDYOMNEu907WfflCQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  8aPTQeDYOMNEu907WfflCQ set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  JuBygU4XDjqSeW9okyvbsQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  JuBygU4XDjqSeW9okyvbsQ set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  HbUQ_3dlm3uCacmhTEMnuA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  HbUQ_3dlm3uCacmhTEMnuA set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.875
+
+yelp:  QkVSaXjg5475VD3sZixCZQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  QkVSaXjg5475VD3sZixCZQ set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.5
+
+yelp:  9XlLE3H3j5Uv0w8V01yomQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  9XlLE3H3j5Uv0w8V01yomQ set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  -_npP9XdyzILAjtFfX8UAQ set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+our:  -_npP9XdyzILAjtFfX8UAQ set(['Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  XDYnLQC8ViZejuCDp4eCwg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  XDYnLQC8ViZejuCDp4eCwg set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.875
+
+yelp:  -XN4Oi0UCBK7rE3MsSXdqw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  -XN4Oi0UCBK7rE3MsSXdqw set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  cb4YeNdl6MUWis906tzFVQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  cb4YeNdl6MUWis906tzFVQ set(['Waiter Service', 'Accepts Credit Cards', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  4KwEzJyeuHqna7_A_eeI3g set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  4KwEzJyeuHqna7_A_eeI3g set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  3Gsex5Dyhnoul9l_914MGQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  3Gsex5Dyhnoul9l_914MGQ set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  I4L_MJOZsnux3xCU2bLP8Q set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  I4L_MJOZsnux3xCU2bLP8Q set(['Delivery', 'Waiter Service', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.666666666667
+
+yelp:  gkWEjZIVcrUerEzed6IKpg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  gkWEjZIVcrUerEzed6IKpg set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.875
+
+yelp:  LRuIY8JFqadCSYLo242MGg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  LRuIY8JFqadCSYLo242MGg set(['Delivery', 'Waiter Service', 'Parking', 'Takes Reservations'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  _hTnLGWujfiZhIaCwWH8Ng set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  _hTnLGWujfiZhIaCwWH8Ng set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  vfLog2bLJGl6hAFtGtr0GQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  vfLog2bLJGl6hAFtGtr0GQ set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  ApEvXLmsPMWsUVEfPkrmfg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  ApEvXLmsPMWsUVEfPkrmfg set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  xcm38ca6C5iZLK9kMuuVwg set(['Wi-Fi', 'Accepts Credit Cards', 'Parking'])
+our:  xcm38ca6C5iZLK9kMuuVwg set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Accepts Credit Cards', 'Parking'])
+precision: 0.6
+recall: 1.0
+
+yelp:  7LnQx6Wzi-omWMYodmrEGQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  7LnQx6Wzi-omWMYodmrEGQ set(['Waiter Service', 'Accepts Credit Cards', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  3ULJQrfcz81fYgBomNHV8Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  3ULJQrfcz81fYgBomNHV8Q set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  f9jludJLwlM4_2zApw7_rw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  f9jludJLwlM4_2zApw7_rw set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  uC8nWYLTBtIc9p6JrcvgkQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  uC8nWYLTBtIc9p6JrcvgkQ set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.625
+
+yelp:  Fh6OndE60vzvyhCX1Wg7Aw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Fh6OndE60vzvyhCX1Wg7Aw set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  ZKkI1U5TkAEkvaEjzgBVdw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  ZKkI1U5TkAEkvaEjzgBVdw set(['Waiter Service', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  pZuaAQQzYKQc0AhGnmcTQg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  pZuaAQQzYKQc0AhGnmcTQg set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  xyTJYlbE_MLouK6rCou6zg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  xyTJYlbE_MLouK6rCou6zg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 1.0
+
+yelp:  tbRu-3NR5za1SEZkszcp5Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  tbRu-3NR5za1SEZkszcp5Q set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  LYyGQgL60VKdV-p_9OxmWQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  LYyGQgL60VKdV-p_9OxmWQ set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.625
+
+yelp:  -u0m2QhmIUYJU22psWo46Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  -u0m2QhmIUYJU22psWo46Q set(['Accepts Credit Cards', 'Takes Reservations', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  SGXxugJwTuR4BI7qKso4cg set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  SGXxugJwTuR4BI7qKso4cg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.5
+
+yelp:  jWiGtY7hTqBjbzN3yyRXbw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  jWiGtY7hTqBjbzN3yyRXbw set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  8dlyEiypNYB0sVfdzQll3A set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  8dlyEiypNYB0sVfdzQll3A set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  LsArM1PhbqvXK3lDK-Ch_w set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  LsArM1PhbqvXK3lDK-Ch_w set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.625
+
+yelp:  hWhkm0CBERtqa-EhTmpecA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  hWhkm0CBERtqa-EhTmpecA set(['Waiter Service', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  -S7aL8dVIiXjCdbTZVn8uA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  -S7aL8dVIiXjCdbTZVn8uA set(['Waiter Service', 'Good For Kids', 'Parking'])
+precision: 1.0
+recall: 0.375
+
+yelp:  TCIVUf1frqLehZbaUnuQzQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  TCIVUf1frqLehZbaUnuQzQ set(['Waiter Service', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  M7LEY5gIpGEeYgo_DrHlnw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  M7LEY5gIpGEeYgo_DrHlnw set(['Delivery', 'Waiter Service', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  EH7sT3dV-B365RETWCQhIA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  EH7sT3dV-B365RETWCQhIA set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.5
+
+yelp:  VnR-KYOHlQX-aFMkaY686Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  VnR-KYOHlQX-aFMkaY686Q set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  NKSA0em3dHSGTyo6Eu-Waw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  NKSA0em3dHSGTyo6Eu-Waw set(['Waiter Service', 'Good For Kids', 'Parking'])
+precision: 1.0
+recall: 0.375
+
+yelp:  wetCkf15H70FMjYwQ6s7Sg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  wetCkf15H70FMjYwQ6s7Sg set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  tkHy13-6Iuc46OgBbmAaTw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  tkHy13-6Iuc46OgBbmAaTw set(['Waiter Service', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  WHq-tdPQ9-6WAgWwbUhgHg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  WHq-tdPQ9-6WAgWwbUhgHg set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Parking'])
+precision: 1.0
+recall: 0.5
+
+yelp:  oSKT5oZX1NWYaHwOWL5lag set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  oSKT5oZX1NWYaHwOWL5lag set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.5
+
+yelp:  7h0-KtLbYH1gu6QBv_-jxg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  7h0-KtLbYH1gu6QBv_-jxg set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  nyUdKma0UUQMjqa6BaXVlg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  nyUdKma0UUQMjqa6BaXVlg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  fpCXESND4gzshjyfQgwuuQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  fpCXESND4gzshjyfQgwuuQ set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  QXUI3ZEnPw0j55qjwjiOnA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  QXUI3ZEnPw0j55qjwjiOnA set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  O_X3PGhk3Y5JWVi866qlJg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  O_X3PGhk3Y5JWVi866qlJg set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  FyC0O9zorrMNyWh7r9zCkQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  FyC0O9zorrMNyWh7r9zCkQ set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  _WaHLgLzALd2iThQAhC-sQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  _WaHLgLzALd2iThQAhC-sQ set(['Takes Reservations', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  NqV89VQBV9kvUaA7a8F-tg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  NqV89VQBV9kvUaA7a8F-tg set(['Delivery', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  gGeVLZ9j_wAYKbaqgnKSJA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  gGeVLZ9j_wAYKbaqgnKSJA set(['Accepts Credit Cards', 'Takes Reservations', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.75
+
+yelp:  Shl6PtJERnowSJSC4IHbYQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  Shl6PtJERnowSJSC4IHbYQ set(['Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.75
+
+yelp:  nfNk9CUjpnKX_bwK_-bIeA set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  nfNk9CUjpnKX_bwK_-bIeA set(['Waiter Service', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.5
+
+yelp:  VRKO86sUgxlXhVUurPwHBw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  VRKO86sUgxlXhVUurPwHBw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  5VMajxduxfLPSyQkVFKESg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  5VMajxduxfLPSyQkVFKESg set(['Accepts Credit Cards', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.875
+
+yelp:  nI1reikhvzQKyXojeUCPqg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  nI1reikhvzQKyXojeUCPqg set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  NFICjOJG4AP1NQZHkW4AxQ set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  NFICjOJG4AP1NQZHkW4AxQ set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.5
+
+yelp:  TisnIBR2lMvT1DMC95_eHg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  TisnIBR2lMvT1DMC95_eHg set(['Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  jDyn5GnMiWllhB7qDpzltw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  jDyn5GnMiWllhB7qDpzltw set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  NulKeGrS35q9Pr7GIMtSig set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  NulKeGrS35q9Pr7GIMtSig set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  ySpNcdz0tSpaPNqefAbfOw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  ySpNcdz0tSpaPNqefAbfOw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  M_b7P2IBKY6zyqDmXE1kJA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  M_b7P2IBKY6zyqDmXE1kJA set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  5_TX9FincQ29TOSLDfFxUQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  5_TX9FincQ29TOSLDfFxUQ set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  5usBY9Sw_tJegCCK_6iKXA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  5usBY9Sw_tJegCCK_6iKXA set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.625
+
+yelp:  qENpyFhiBVWNz86SHRC-tQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  qENpyFhiBVWNz86SHRC-tQ set(['Delivery', 'Waiter Service', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  qRs0FXkxqMXHgkPVW4XXeA set(['Accepts Credit Cards', 'Delivery', 'Takes Reservations', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  qRs0FXkxqMXHgkPVW4XXeA set(['Waiter Service', 'Accepts Credit Cards', 'Takes Reservations'])
+precision: 1.0
+recall: 0.5
+
+yelp:  pLCRUdm0YGfRL3lR9PSkcA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  pLCRUdm0YGfRL3lR9PSkcA set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  t80qleqEIqIyekB95IrAOA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  t80qleqEIqIyekB95IrAOA set(['Takes Reservations', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  PaLcd9gO8wJyix-L9vjHZw set(['Takes Reservations', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+our:  PaLcd9gO8wJyix-L9vjHZw set(['Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.5
+
+yelp:  xVNehV47VEyx-Uj0DTdPEw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  xVNehV47VEyx-Uj0DTdPEw set(['Waiter Service', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  P0aKJw8rb0DKLaGottHEAw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  P0aKJw8rb0DKLaGottHEAw set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  -Nanlb7SYXObqQ6dZ49UOg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  -Nanlb7SYXObqQ6dZ49UOg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  mQhB93IFv2QM4fRQFJmSvA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  mQhB93IFv2QM4fRQFJmSvA set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  m9haUi2_1lHR2eAKBhKwDg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  m9haUi2_1lHR2eAKBhKwDg set(['Takes Reservations', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  Er20nsiOS6TFHmAE717iTA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Er20nsiOS6TFHmAE717iTA set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  Gq092IH6eZqhAXwtXcwc6A set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Gq092IH6eZqhAXwtXcwc6A set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  VLXFrRkD7g2eLjloFQcKfg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  VLXFrRkD7g2eLjloFQcKfg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.5
+
+yelp:  0_vMnSRqc5aZUg1eBk3l2g set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  0_vMnSRqc5aZUg1eBk3l2g set(['Waiter Service', 'Wi-Fi', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  E_wJCQ9L_0w5tJyrvr0lJQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  E_wJCQ9L_0w5tJyrvr0lJQ set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.625
+
+yelp:  Wv7AqSOOnMR676h3bZWyJw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  Wv7AqSOOnMR676h3bZWyJw set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Accepts Credit Cards'])
+precision: 1.0
+recall: 0.5
+
+yelp:  Zy2vca7i9QFGRKa4m0C__A set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  Zy2vca7i9QFGRKa4m0C__A set(['Accepts Credit Cards', 'Takes Reservations', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.875
+
+yelp:  RAqKrXE_7PzFcUVgtzGDsw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  RAqKrXE_7PzFcUVgtzGDsw set(['Delivery', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  h-wQGY-uOMgXe8efKQQboQ set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  h-wQGY-uOMgXe8efKQQboQ set(['Waiter Service', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.5
+
+yelp:  3W3e6nbSxePT4ctJGkljZQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  3W3e6nbSxePT4ctJGkljZQ set(['Takes Reservations', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  D8nE0MdSghHRui75vIP-pA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  D8nE0MdSghHRui75vIP-pA set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  Kj2SCzhHuULRdTKg6Y2aeg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Kj2SCzhHuULRdTKg6Y2aeg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  i-tKO0n-1Tq6sTFUrhg9-Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  i-tKO0n-1Tq6sTFUrhg9-Q set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  UrnRSzly4onGLUzZQrbT0A set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  UrnRSzly4onGLUzZQrbT0A set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.5
+
+yelp:  SQSO2p8mng8yzbPttVgWDQ set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  SQSO2p8mng8yzbPttVgWDQ set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.666666666667
+
+yelp:  AstBY--d6rxLfrVIfXHF0g set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  AstBY--d6rxLfrVIfXHF0g set(['Delivery', 'Waiter Service', 'Wi-Fi'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  zfY68t7nVihCwiCsCgM6cw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  zfY68t7nVihCwiCsCgM6cw set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  UkZ5mAzll7d3Hw0UfeAJKQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  UkZ5mAzll7d3Hw0UfeAJKQ set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  CvaitQbPilPx06hyUrujvQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  CvaitQbPilPx06hyUrujvQ set(['Waiter Service', 'Parking', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  eHcQzL5eebqvKrLW5q283w set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  eHcQzL5eebqvKrLW5q283w set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  LloIdJMbazf7EGKI_K0B8w set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  LloIdJMbazf7EGKI_K0B8w set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  IUFi5rcfmu_Bn6PkdozbBg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  IUFi5rcfmu_Bn6PkdozbBg set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  3rUk-WyCv_wMQR5HbTqD4Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  3rUk-WyCv_wMQR5HbTqD4Q set(['Delivery', 'Waiter Service', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  r3HWH8XeoV9uohlcrwrMSw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  r3HWH8XeoV9uohlcrwrMSw set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  9BH18avE46LlHMvJn67MaA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  9BH18avE46LlHMvJn67MaA set(['Accepts Credit Cards', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.857142857143
+recall: 0.857142857143
+
+yelp:  dipzJ5BExpm6BtJ91mXd4Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  dipzJ5BExpm6BtJ91mXd4Q set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  jKPEJgRE_WvryvExq7zogQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  jKPEJgRE_WvryvExq7zogQ set(['Waiter Service', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  Bc4DoKgrKCtCuN-0O5He3A set(['Wi-Fi', 'Accepts Credit Cards', 'Parking'])
+our:  Bc4DoKgrKCtCuN-0O5He3A set(['Accepts Credit Cards', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.5
+recall: 1.0
+
+yelp:  -KQ283hJkBO12u8XOrlCcQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  -KQ283hJkBO12u8XOrlCcQ set(['Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  LH6aLuXW3yShrn_pzrVe8g set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  LH6aLuXW3yShrn_pzrVe8g set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  Yj1EJ_HDLtw7wLcdpmaY9w set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Yj1EJ_HDLtw7wLcdpmaY9w set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  Pq91OM8RI_Rcr6PpXQajsw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Pq91OM8RI_Rcr6PpXQajsw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  fDSr3A-e4ED-4i3cwykExg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  fDSr3A-e4ED-4i3cwykExg set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  7U8TYNW4Mvx6m3zexsO0sg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  7U8TYNW4Mvx6m3zexsO0sg set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  lO_HY6I64DNNnrUF4kdi8A set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  lO_HY6I64DNNnrUF4kdi8A set(['Waiter Service', 'Parking', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  3yMneVFhBePIBtCGdboc7Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  3yMneVFhBePIBtCGdboc7Q set(['Delivery', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  NH67MdKaFGNcP-dlu56pyw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  NH67MdKaFGNcP-dlu56pyw set(['Waiter Service', 'Parking', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  JdNv6vdpft5g5FJWPCCQuw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  JdNv6vdpft5g5FJWPCCQuw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  0lEp4vISRmOXa8Xz2pWhbw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  0lEp4vISRmOXa8Xz2pWhbw set(['Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  UxvOXcoCRFRAVhRB0D9imw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  UxvOXcoCRFRAVhRB0D9imw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  Z4ZP0LwHhG8SMTkvEcVvpg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Z4ZP0LwHhG8SMTkvEcVvpg set(['Delivery', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  bzSzpGAn4kjGRtsgMM1pvg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  bzSzpGAn4kjGRtsgMM1pvg set(['Takes Reservations', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  83C1eqPfmQHTy_8MC4Ug6w set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  83C1eqPfmQHTy_8MC4Ug6w set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.5
+
+yelp:  vyc1Bm_b-0sVGpwLRFlKQw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  vyc1Bm_b-0sVGpwLRFlKQw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  FJDBOsbQWm5hoTy2LWE7mw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  FJDBOsbQWm5hoTy2LWE7mw set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  zYRKOiYCZJAg1SV1WZG4lw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  zYRKOiYCZJAg1SV1WZG4lw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  HDvCnqIf5twbMb5-eG1EJw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  HDvCnqIf5twbMb5-eG1EJw set(['Accepts Credit Cards', 'Takes Reservations', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.75
+
+yelp:  WPzxzQwD4BiPuIgMgk683g set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  WPzxzQwD4BiPuIgMgk683g set(['Delivery', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  CjXMqzgucLNyPF49NopgUA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  CjXMqzgucLNyPF49NopgUA set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  V7-f6dE87cNga5dSJ4CuZw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  V7-f6dE87cNga5dSJ4CuZw set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.857142857143
+recall: 0.857142857143
+
+yelp:  nENrnY-3ILrH9yPXV4tqmg set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  nENrnY-3ILrH9yPXV4tqmg set(['Waiter Service', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.5
+
+yelp:  Txg5Xo0njHL3-raZTqCNTw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  Txg5Xo0njHL3-raZTqCNTw set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.5
+
+yelp:  QiTjW1KT-pD5BKx9yYD85Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  QiTjW1KT-pD5BKx9yYD85Q set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  stH6XAn2Drzol1H5oGvL2A set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  stH6XAn2Drzol1H5oGvL2A set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  p3X7T5qvZ7YYBYHl8LN6Vw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  p3X7T5qvZ7YYBYHl8LN6Vw set(['Delivery', 'Waiter Service', 'Good For Kids', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  FDXk2MDLPf72uEDT6Bq1Mw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  FDXk2MDLPf72uEDT6Bq1Mw set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  NQvZ_RotIEalBKsJ8zuLIw set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+our:  NQvZ_RotIEalBKsJ8zuLIw set(['Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  cll90LXLWNpljIDQB8BeKA set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+our:  cll90LXLWNpljIDQB8BeKA set(['Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  Ca-003BAqWW-IEsFvjlY9g set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  Ca-003BAqWW-IEsFvjlY9g set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.875
+
+yelp:  fK7ujDbjhRFEe2D7eIwK4w set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  fK7ujDbjhRFEe2D7eIwK4w set(['Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.75
+
+yelp:  uCQBZQcLbAxb1FKt7DHqgw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  uCQBZQcLbAxb1FKt7DHqgw set(['Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+yelp:  ZOa7CkROQBhLuATpNHcHgg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  ZOa7CkROQBhLuATpNHcHgg set(['Waiter Service', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  Af2qmVsMCzpKEg4DxsCm2g set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Af2qmVsMCzpKEg4DxsCm2g set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  Do1e3eetKMef70hDH8P-cA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Do1e3eetKMef70hDH8P-cA set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  cwAd2nytPLKmABtLXsgpIw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  cwAd2nytPLKmABtLXsgpIw set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  _Ec1KaH6DpX-1NNE8fA55Q set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  _Ec1KaH6DpX-1NNE8fA55Q set(['Waiter Service', 'Wi-Fi', 'Good For Groups', 'Parking'])
+precision: 1.0
+recall: 0.571428571429
+
+yelp:  QASUiGt2EeXUdlP1hV50sw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  QASUiGt2EeXUdlP1hV50sw set(['Delivery', 'Waiter Service', 'Accepts Credit Cards'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  mjXGettPUoAxAg-vUX1CLQ set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  mjXGettPUoAxAg-vUX1CLQ set(['Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.75
+recall: 0.5
+
+yelp:  Xmcr6VtUk_01fTwkTKrrQw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  Xmcr6VtUk_01fTwkTKrrQw set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  YrIfgzLj0DPStJ1ESAS_Qg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  YrIfgzLj0DPStJ1ESAS_Qg set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.875
+
+yelp:  bn2HqLj_XpPG9UE3mAo5cg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  bn2HqLj_XpPG9UE3mAo5cg set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Parking'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  jHte0SjUldZeDDZ5py0ZhA set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups'])
+our:  jHte0SjUldZeDDZ5py0ZhA set(['Delivery', 'Waiter Service', 'Parking'])
+precision: 1.0
+recall: 0.5
+
+yelp:  rZbHg4ACfN3iShdsT47WKQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  rZbHg4ACfN3iShdsT47WKQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 1.0
+
+yelp:  8pqdYVXF17grawfgP2fZTA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  8pqdYVXF17grawfgP2fZTA set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 1.0
+recall: 0.5
+
+yelp:  nLLs9fIiWw6WDku3_2NVVA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  nLLs9fIiWw6WDku3_2NVVA set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.428571428571
+
+yelp:  hCxNymBRhx7eQZdxGCjvXQ set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  hCxNymBRhx7eQZdxGCjvXQ set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.625
+
+yelp:  W60Wa4fltX85k3T9VoKOjg set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  W60Wa4fltX85k3T9VoKOjg set(['Delivery', 'Waiter Service', 'Good For Groups'])
+precision: 1.0
+recall: 0.428571428571
+
+yelp:  0wGWhZw81cIG7YjwghZhgw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+our:  0wGWhZw81cIG7YjwghZhgw set(['Waiter Service', 'Wi-Fi', 'Good For Kids', 'Accepts Credit Cards', 'Good For Groups'])
+precision: 1.0
+recall: 0.625
+
+yelp:  -fsCfTYEnJ4s6yStgBnQig set(['Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+our:  -fsCfTYEnJ4s6yStgBnQig set(['Waiter Service', 'Parking', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 1.0
+recall: 0.714285714286
+
+yelp:  bntRdC23ijuKo41SBrPgFQ set(['Delivery', 'Waiter Service', 'Accepts Credit Cards', 'Good For Groups', 'Parking'])
+our:  bntRdC23ijuKo41SBrPgFQ set(['Waiter Service', 'Accepts Credit Cards', 'Good For Kids', 'Good For Groups'])
+precision: 0.75
+recall: 0.6
+
+yelp:  pJ4dMyXSAcy5Pabo9JLHvw set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  pJ4dMyXSAcy5Pabo9JLHvw set(['Delivery', 'Waiter Service', 'Good For Kids', 'Good For Groups', 'Takes Reservations'])
+precision: 0.8
+recall: 0.571428571429
+
+yelp:  GGyHZtnAA5LBgouB-32ARA set(['Accepts Credit Cards', 'Takes Reservations', 'Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Groups'])
+our:  GGyHZtnAA5LBgouB-32ARA set(['Delivery', 'Parking', 'Waiter Service', 'Wi-Fi', 'Good For Kids', 'Good For Groups'])
+precision: 0.833333333333
+recall: 0.714285714286
+
+total_precision: 0.865711761736
+total_recall: 0.55514050143
+total_corrects / total_response_tags: 0.862284820031
+total_corrects / total_key_tags: 0.553768844221
